@@ -1,0 +1,7 @@
+city year population
+beijing 1990 10.8
+beijing 2000 13.6
+beijing 2010 19.6
+shanghai 1990 13.3
+shanghai 2000 16.4
+shanghai 2010 23.0
